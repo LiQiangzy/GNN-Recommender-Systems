@@ -1,3 +1,5 @@
+图神经网络推荐系统
+
 # GNN based Recommender Systems
 An index of recommendation algorithms that are based on Graph Neural Networks.
 
